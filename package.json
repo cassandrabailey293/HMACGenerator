@@ -1,0 +1,22 @@
+{
+  "name": "uplightchallenge",
+  "version": "1.0.0",
+  "description": "Generates an HMAC token from user-provided data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cassandrabailey293/HMACGenerator.git"
+  },
+  "author": "Cassandra Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassandrabailey293/HMACGenerator/issues"
+  },
+  "homepage": "https://github.com/cassandrabailey293/HMACGenerator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
